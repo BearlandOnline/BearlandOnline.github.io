@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>this is a test</title>
+    <link href="/2019/10/10/test/"/>
+    <url>/2019/10/10/test/</url>
+    
+    <content type="html"><![CDATA[<p>3031</p><p>这是一句话<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="这是对应的脚注">[1]</span></a></sup></p><div class="note note-light">            <p>000</p>          </div><div class="note note-primary">            <p>111</p>          </div><div class="note note-secondary">            <p>222</p>          </div><div class="note note-success">            <p>333</p>          </div><div class="note note-danger">            <p>444</p>          </div><div class="note note-warning">            <p>555</p>          </div><div class="note note-info">            <p>666</p>          </div><span class="label label-primary">text</span> <br /><span class="label label-success">111</span>            <input type="checkbox" disabled checked="checked">text          <a class="btn" href="https://www.ciyok.com"  title="返回主页" target="_blank">主页</a><p>“救赎之道，就在其中”</p><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm">npm <span class="hljs-keyword">install </span>--save hexo-renderer-<span class="hljs-keyword">jade </span>hexo-generator-feed hexo-generator-sitemap hexo-<span class="hljs-keyword">browsersync </span>hexo-generator-archive<br><br></code></pre></td></tr></table></figure><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs"><br></code></pre></td></tr></table></figure><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>这是对应的脚注<p><a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test1</tag>
+      
+      <tag>test2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>

@@ -1,0 +1,5 @@
+http://example.com/2019/10/10/test/
+http://example.com/about/index.html
+http://example.com/
+http://example.com/tags/test1/
+http://example.com/tags/test2/
